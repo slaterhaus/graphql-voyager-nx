@@ -1,0 +1,10 @@
+{
+  "name": "angular-voyager-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "src/angular-voyager-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["angular-voyager"],
+  "// targets": "to see all targets run: nx show project angular-voyager-e2e --web",
+  "targets": {}
+}
